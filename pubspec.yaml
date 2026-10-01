@@ -1,0 +1,36 @@
+name: sketchify
+description: Turn any image into a "draw itself" animation. Traces PNG, JPEG, WebP, SVG and more into smooth outlines that sketch in, then ends on the exact original.
+version: 1.0.0
+
+topics:
+  - animation
+  - svg
+  - drawing
+  - vector
+  - image
+
+screenshots:
+  - description: Outlines sketching in with a pen dot.
+    path: doc/screenshots/pencil.png
+  - description: Gradient neon lines drawing in, shape by shape.
+    path: doc/screenshots/neon.png
+  - description: Blueprint style line art in dark mode.
+    path: doc/screenshots/blueprint.png
+  - description: The finished frame, with the background cut out.
+    path: doc/screenshots/finished.png
+
+environment:
+  sdk: ^3.9.0
+  flutter: '>=3.35.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.3.0
+  path_provider: ^2.1.5
+  web: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
