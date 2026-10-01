@@ -12,9 +12,9 @@ Give Sketchify a logo, icon, illustration or photo. It draws the outlines like a
 ![Flutter](https://img.shields.io/badge/Flutter-3.35%2B-02569B?logo=flutter)
 ![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ImDarkSoull/sketchify/main/doc/demo.gif" alt="Sketchify demo: images drawing themselves in, line by line" width="300">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ImDarkSoull/sketchify/main/doc/demo.gif" alt="Sketchify demo" width="300">
+</div>
 
 `#Flutter` `#Dart` `#FlutterDev` `#Animation` `#SketchAnimation` `#DrawingAnimation` `#LogoAnimation` `#SplashScreen` `#ImageTracing` `#Vectorize` `#SVG` `#CustomPainter` `#UIUX` `#MobileDev` `#OpenSource`
 
