@@ -5,10 +5,16 @@
 Give Sketchify a logo, icon, illustration or photo. It draws the outlines like a pen sketch, then fills them in, and ends on your **exact original image, pixel for pixel**.
 
 [![pub package](https://img.shields.io/pub/v/sketchify.svg)](https://pub.dev/packages/sketchify)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+[![pub points](https://img.shields.io/pub/points/sketchify)](https://pub.dev/packages/sketchify/score)
+[![likes](https://img.shields.io/pub/likes/sketchify)](https://pub.dev/packages/sketchify/score)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/ImDarkSoull/sketchify?style=social)](https://github.com/ImDarkSoull/sketchify)
 ![Flutter](https://img.shields.io/badge/Flutter-3.35%2B-02569B?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.9%2B-0175C2?logo=dart)
 ![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ImDarkSoull/sketchify/main/doc/demo.gif" alt="Sketchify demo: images drawing themselves in, line by line" width="300">
+</p>
 
 `#Flutter` `#Dart` `#FlutterDev` `#Animation` `#SketchAnimation` `#DrawingAnimation` `#LogoAnimation` `#SplashScreen` `#ImageTracing` `#Vectorize` `#SVG` `#CustomPainter` `#UIUX` `#MobileDev` `#OpenSource`
 
@@ -39,7 +45,8 @@ Give Sketchify a logo, icon, illustration or photo. It draws the outlines like a
 21. [Troubleshooting and FAQ](#21-troubleshooting-and-faq)
 22. [Limitations](#22-limitations)
 23. [Example app](#23-example-app)
-24. [Licence](#24-licence)
+24. [Links and support](#24-links-and-support)
+25. [Licence](#25-licence)
 
 ---
 
@@ -739,7 +746,19 @@ flutter run
 
 ---
 
-## 24. Licence
+## 24. Links and support
+
+- 📦 **Package:** [pub.dev/packages/sketchify](https://pub.dev/packages/sketchify)
+- 💻 **Source code:** [github.com/ImDarkSoull/sketchify](https://github.com/ImDarkSoull/sketchify)
+- 🐞 **Found a bug or have an idea?** [Open an issue](https://github.com/ImDarkSoull/sketchify/issues)
+- 📖 **API reference:** [pub.dev/documentation/sketchify](https://pub.dev/documentation/sketchify/latest/)
+- ⭐ If Sketchify helps you, a [star on GitHub](https://github.com/ImDarkSoull/sketchify) or a like on [pub.dev](https://pub.dev/packages/sketchify) is much appreciated.
+
+Pull requests are welcome. Please run `flutter analyze` and `flutter test` before sending one.
+
+---
+
+## 25. Licence
 
 MIT. See [LICENSE](LICENSE). Free to use in personal and commercial apps.
 

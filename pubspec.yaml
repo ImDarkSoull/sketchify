@@ -1,6 +1,9 @@
 name: sketchify
 description: Turn any image into a "draw itself" animation. Traces PNG, JPEG, WebP, SVG and more into smooth outlines that sketch in, then ends on the exact original.
 version: 1.0.0
+homepage: https://github.com/ImDarkSoull/sketchify
+repository: https://github.com/ImDarkSoull/sketchify
+issue_tracker: https://github.com/ImDarkSoull/sketchify/issues
 
 topics:
   - animation

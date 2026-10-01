@@ -1,0 +1,8 @@
+# pub uses this file instead of .gitignore, so it repeats those rules.
+.dart_tool/
+build/
+pubspec.lock
+.flutter-plugins-dependencies
+
+# Shown in the README from GitHub; not needed in the published package.
+doc/demo.gif
